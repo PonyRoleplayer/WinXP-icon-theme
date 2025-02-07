@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg415"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="prime-tray-amd.svg"
+   inkscape:export-filename="../../../../../Desktop/aux/1024/prime-tray-amd.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview417"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53417909"
+     inkscape:cx="448.3515"
+     inkscape:cy="494.21627"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs412">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1431">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1427" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="0.78864926"
+         id="stop1429" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1431"
+       id="linearGradient1433"
+       x1="135.46666"
+       y1="0"
+       x2="135.46666"
+       y2="270.93332"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7667712,0,0,0.85326311,31.594726,21.877859)" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter560"
+       x="-0.051025354"
+       y="-0.051025345"
+       width="1.1445718"
+       height="1.1445718">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood550" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite552" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="5"
+         result="blur"
+         id="feGaussianBlur554" />
+      <feOffset
+         dx="10"
+         dy="10"
+         result="offset"
+         id="feOffset556" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite558" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g320"
+       style="filter:url(#filter560)">
+      <rect
+         style="fill:#ff0000;stroke-width:0.114833"
+         id="rect601"
+         width="235.1772"
+         height="235.1772"
+         x="17.878057"
+         y="17.878061"
+         ry="52.208183"
+         inkscape:label="background" />
+      <rect
+         style="fill:url(#linearGradient1433);fill-opacity:1;stroke-width:0.107005"
+         id="rect601-6"
+         width="207.74385"
+         height="231.17744"
+         x="31.594719"
+         y="21.877859"
+         ry="51.320255"
+         inkscape:label="glow" />
+      <path
+         d="M 100.35454,99.020845 56.730351,55.38907 H 215.54338 V 214.20796 L 171.91915,170.58124 V 99.020845 Z m -0.051,8.742975 -44.913476,44.91177 v 62.86867 h 62.860246 l 44.91098,-44.91182 h -62.85774 z"
+         id="path395"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.839381"
+         inkscape:label="amdLogo" />
+    </g>
+  </g>
+</svg>
