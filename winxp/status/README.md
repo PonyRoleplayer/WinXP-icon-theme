@@ -4,6 +4,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
 |**account-logged-in**|![](64/account-logged-in.png)|![](48/account-logged-in.png)|![](32/account-logged-in.png)|![](24/account-logged-in.png)|![](22/account-logged-in.png)|![](16/account-logged-in.png)|
+|**alt-critical-notif-symbolic**|![](64/alt-critical-notif-symbolic.png)|![](48/alt-critical-notif-symbolic.png)|![](32/alt-critical-notif-symbolic.png)|![](24/alt-critical-notif-symbolic.png)|![](22/alt-critical-notif-symbolic.png)|![](16/alt-critical-notif-symbolic.png)|
 |**applications-microblogging-panel**|![](64/applications-microblogging-panel.png)|![](48/applications-microblogging-panel.png)|![](32/applications-microblogging-panel.png)|![](24/applications-microblogging-panel.png)|![](22/applications-microblogging-panel.png)|![](16/applications-microblogging-panel.png)|
 |**appointment-missed**|![](64/appointment-missed.png)|![](48/appointment-missed.png)|![](32/appointment-missed.png)|![](24/appointment-missed.png)|![](22/appointment-missed.png)|![](16/appointment-missed.png)|
 |**appointment-soon**|![](64/appointment-soon.png)|![](48/appointment-soon.png)|![](32/appointment-soon.png)|![](24/appointment-soon.png)|![](22/appointment-soon.png)|![](16/appointment-soon.png)|
@@ -22,7 +23,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**audio-volume-low**|![](64/audio-volume-low.png)|![](48/audio-volume-low.png)|![](32/audio-volume-low.png)|![](24/audio-volume-low.png)|![](22/audio-volume-low.png)|![](16/audio-volume-low.png)|
 |**audio-volume-medium**|![](64/audio-volume-medium.png)|![](48/audio-volume-medium.png)|![](32/audio-volume-medium.png)|![](24/audio-volume-medium.png)|![](22/audio-volume-medium.png)|![](16/audio-volume-medium.png)|
 |**audio-volume-muted**|![](64/audio-volume-muted.png)|![](48/audio-volume-muted.png)|![](32/audio-volume-muted.png)|![](24/audio-volume-muted.png)|![](22/audio-volume-muted.png)|![](16/audio-volume-muted.png)|
-|**audio-volume-off-symbolic**|![](64/audio-volume-off-symbolic.png)|![](48/audio-volume-off-symbolic.png)|![](32/audio-volume-off-symbolic.png)|![](24/audio-volume-off-symbolic.png)|![](22/audio-volume-off-symbolic.png)|![](16/audio-volume-off-symbolic.png)|
 |**avatar-default**|![](64/avatar-default.png)|![](48/avatar-default.png)|![](32/avatar-default.png)|![](24/avatar-default.png)|![](22/avatar-default.png)|![](16/avatar-default.png)|
 |**blueman-down-active**|![](64/blueman-down-active.png)|![](48/blueman-down-active.png)|![](32/blueman-down-active.png)|![](24/blueman-down-active.png)|![](22/blueman-down-active.png)|![](16/blueman-down-active.png)|
 |**blueman-down-inactive**|![](64/blueman-down-inactive.png)|![](48/blueman-down-inactive.png)|![](32/blueman-down-inactive.png)|![](24/blueman-down-inactive.png)|![](22/blueman-down-inactive.png)|![](16/blueman-down-inactive.png)|
@@ -39,6 +39,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**connect_no**|![](64/connect_no.png)|![](48/connect_no.png)|![](32/connect_no.png)|![](24/connect_no.png)|![](22/connect_no.png)|![](16/connect_no.png)|
 |**content-loading**|![](64/content-loading.png)|![](48/content-loading.png)|![](32/content-loading.png)|![](24/content-loading.png)|![](22/content-loading.png)|![](16/content-loading.png)|
 |**covergloobus-panel**|![](64/covergloobus-panel.png)|![](48/covergloobus-panel.png)|![](32/covergloobus-panel.png)|![](24/covergloobus-panel.png)|![](22/covergloobus-panel.png)|![](16/covergloobus-panel.png)|
+|**critical-notif-symbolic**|![](64/critical-notif-symbolic.png)|![](48/critical-notif-symbolic.png)|![](32/critical-notif-symbolic.png)|![](24/critical-notif-symbolic.png)|![](22/critical-notif-symbolic.png)|![](16/critical-notif-symbolic.png)|
 |**dcpp-panel**|![](64/dcpp-panel.png)|![](48/dcpp-panel.png)|![](32/dcpp-panel.png)|![](24/dcpp-panel.png)|![](22/dcpp-panel.png)|![](16/dcpp-panel.png)|
 |**deadbeef-tray-icon**|![](64/deadbeef-tray-icon.png)|![](48/deadbeef-tray-icon.png)|![](32/deadbeef-tray-icon.png)|![](24/deadbeef-tray-icon.png)|![](22/deadbeef-tray-icon.png)|![](16/deadbeef-tray-icon.png)|
 |**dialog-error**|![](64/dialog-error.png)|![](48/dialog-error.png)|![](32/dialog-error.png)|![](24/dialog-error.png)|![](22/dialog-error.png)|![](16/dialog-error.png)|
@@ -46,6 +47,8 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**dialog-password**|![](64/dialog-password.png)|![](48/dialog-password.png)|![](32/dialog-password.png)|![](24/dialog-password.png)|![](22/dialog-password.png)|![](16/dialog-password.png)|
 |**dialog-question**|![](64/dialog-question.png)|![](48/dialog-question.png)|![](32/dialog-question.png)|![](24/dialog-question.png)|![](22/dialog-question.png)|![](16/dialog-question.png)|
 |**dialog-warning**|![](64/dialog-warning.png)|![](48/dialog-warning.png)|![](32/dialog-warning.png)|![](24/dialog-warning.png)|![](22/dialog-warning.png)|![](16/dialog-warning.png)|
+|**discord-tray**|![](64/discord-tray.png)|![](48/discord-tray.png)|![](32/discord-tray.png)|![](24/discord-tray.png)|![](22/discord-tray.png)|![](16/discord-tray.png)|
+|**discord-tray-unread**|![](64/discord-tray-unread.png)|![](48/discord-tray-unread.png)|![](32/discord-tray-unread.png)|![](24/discord-tray-unread.png)|![](22/discord-tray-unread.png)|![](16/discord-tray-unread.png)|
 |**dropboxstatus-busy**|![](64/dropboxstatus-busy.png)|![](48/dropboxstatus-busy.png)|![](32/dropboxstatus-busy.png)|![](24/dropboxstatus-busy.png)|![](22/dropboxstatus-busy.png)|![](16/dropboxstatus-busy.png)|
 |**dropboxstatus-busy2**|![](64/dropboxstatus-busy2.png)|![](48/dropboxstatus-busy2.png)|![](32/dropboxstatus-busy2.png)|![](24/dropboxstatus-busy2.png)|![](22/dropboxstatus-busy2.png)|![](16/dropboxstatus-busy2.png)|
 |**dropboxstatus-idle**|![](64/dropboxstatus-idle.png)|![](48/dropboxstatus-idle.png)|![](32/dropboxstatus-idle.png)|![](24/dropboxstatus-idle.png)|![](22/dropboxstatus-idle.png)|![](16/dropboxstatus-idle.png)|
@@ -57,6 +60,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**empathy-extended-away**|![](64/empathy-extended-away.png)|![](48/empathy-extended-away.png)|![](32/empathy-extended-away.png)|![](24/empathy-extended-away.png)|![](22/empathy-extended-away.png)|![](16/empathy-extended-away.png)|
 |**empathy-invisible**|![](64/empathy-invisible.png)|![](48/empathy-invisible.png)|![](32/empathy-invisible.png)|![](24/empathy-invisible.png)|![](22/empathy-invisible.png)|![](16/empathy-invisible.png)|
 |**empathy-offline**|![](64/empathy-offline.png)|![](48/empathy-offline.png)|![](32/empathy-offline.png)|![](24/empathy-offline.png)|![](22/empathy-offline.png)|![](16/empathy-offline.png)|
+|**empty-notif-symbolic**|![](64/empty-notif-symbolic.png)|![](48/empty-notif-symbolic.png)|![](32/empty-notif-symbolic.png)|![](24/empty-notif-symbolic.png)|![](22/empty-notif-symbolic.png)|![](16/empty-notif-symbolic.png)|
 |**exaile-panel**|![](64/exaile-panel.png)|![](48/exaile-panel.png)|![](32/exaile-panel.png)|![](24/exaile-panel.png)|![](22/exaile-panel.png)|![](16/exaile-panel.png)|
 |**exaile-pause**|![](64/exaile-pause.png)|![](48/exaile-pause.png)|![](32/exaile-pause.png)|![](24/exaile-pause.png)|![](22/exaile-pause.png)|![](16/exaile-pause.png)|
 |**fusion-icon-symbolic**|![](64/fusion-icon-symbolic.png)|![](48/fusion-icon-symbolic.png)|![](32/fusion-icon-symbolic.png)|![](24/fusion-icon-symbolic.png)|![](22/fusion-icon-symbolic.png)|![](16/fusion-icon-symbolic.png)|
@@ -140,6 +144,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**kupfer-panel**|![](64/kupfer-panel.png)|![](48/kupfer-panel.png)|![](32/kupfer-panel.png)|![](24/kupfer-panel.png)|![](22/kupfer-panel.png)|![](16/kupfer-panel.png)|
 |**lastfm-panel**|![](64/lastfm-panel.png)|![](48/lastfm-panel.png)|![](32/lastfm-panel.png)|![](24/lastfm-panel.png)|![](22/lastfm-panel.png)|![](16/lastfm-panel.png)|
 |**locked**|![](64/locked.png)|![](48/locked.png)|![](32/locked.png)|![](24/locked.png)|![](22/locked.png)|![](16/locked.png)|
+|**low-notif-symbolic**|![](64/low-notif-symbolic.png)|![](48/low-notif-symbolic.png)|![](32/low-notif-symbolic.png)|![](24/low-notif-symbolic.png)|![](22/low-notif-symbolic.png)|![](16/low-notif-symbolic.png)|
 |**mail-attachment**|![](64/mail-attachment.png)|![](48/mail-attachment.png)|![](32/mail-attachment.png)|![](24/mail-attachment.png)|![](22/mail-attachment.png)|![](16/mail-attachment.png)|
 |**mail-forwarded**|![](64/mail-forwarded.png)|![](48/mail-forwarded.png)|![](32/mail-forwarded.png)|![](24/mail-forwarded.png)|![](22/mail-forwarded.png)|![](16/mail-forwarded.png)|
 |**mail-read**|![](64/mail-read.png)|![](48/mail-read.png)|![](32/mail-read.png)|![](24/mail-read.png)|![](22/mail-read.png)|![](16/mail-read.png)|
@@ -175,6 +180,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**network-vpn**|![](64/network-vpn.png)|![](48/network-vpn.png)|![](32/network-vpn.png)|![](24/network-vpn.png)|![](22/network-vpn.png)|![](16/network-vpn.png)|
 |**network-vpn-acquiring**|![](64/network-vpn-acquiring.png)|![](48/network-vpn-acquiring.png)|![](32/network-vpn-acquiring.png)|![](24/network-vpn-acquiring.png)|![](22/network-vpn-acquiring.png)|![](16/network-vpn-acquiring.png)|
 |**network-wired-activated-limited**|![](64/network-wired-activated-limited.png)|![](48/network-wired-activated-limited.png)|![](32/network-wired-activated-limited.png)|![](24/network-wired-activated-limited.png)|![](22/network-wired-activated-limited.png)|![](16/network-wired-activated-limited.png)|
+|**network-wireless**|![](64/network-wireless.png)|![](48/network-wireless.png)|![](32/network-wireless.png)|![](24/network-wireless.png)|![](22/network-wireless.png)|![](16/network-wireless.png)|
 |**network-wireless-encrypted**|![](64/network-wireless-encrypted.png)|![](48/network-wireless-encrypted.png)|![](32/network-wireless-encrypted.png)|![](24/network-wireless-encrypted.png)|![](22/network-wireless-encrypted.png)|![](16/network-wireless-encrypted.png)|
 |**new-messages-red**|![](64/new-messages-red.png)|![](48/new-messages-red.png)|![](32/new-messages-red.png)|![](24/new-messages-red.png)|![](22/new-messages-red.png)|![](16/new-messages-red.png)|
 |**nm-adhoc**|![](64/nm-adhoc.png)|![](48/nm-adhoc.png)|![](32/nm-adhoc.png)|![](24/nm-adhoc.png)|![](22/nm-adhoc.png)|![](16/nm-adhoc.png)|
@@ -217,6 +223,9 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pino-tray-icon-fresh**|![](64/pino-tray-icon-fresh.png)|![](48/pino-tray-icon-fresh.png)|![](32/pino-tray-icon-fresh.png)|![](24/pino-tray-icon-fresh.png)|![](22/pino-tray-icon-fresh.png)|![](16/pino-tray-icon-fresh.png)|
 |**pithos**|![](64/pithos.png)|![](48/pithos.png)|![](32/pithos.png)|![](24/pithos.png)|![](22/pithos.png)|![](16/pithos.png)|
 |**preferences-desktop-accessibility-panel**|![](64/preferences-desktop-accessibility-panel.png)|![](48/preferences-desktop-accessibility-panel.png)|![](32/preferences-desktop-accessibility-panel.png)|![](24/preferences-desktop-accessibility-panel.png)|![](22/preferences-desktop-accessibility-panel.png)|![](16/preferences-desktop-accessibility-panel.png)|
+|**prime-tray-amd**|![](64/prime-tray-amd.png)|![](48/prime-tray-amd.png)|![](32/prime-tray-amd.png)|![](24/prime-tray-amd.png)|![](22/prime-tray-amd.png)|![](16/prime-tray-amd.png)|
+|**prime-tray-intel**|![](64/prime-tray-intel.png)|![](48/prime-tray-intel.png)|![](32/prime-tray-intel.png)|![](24/prime-tray-intel.png)|![](22/prime-tray-intel.png)|![](16/prime-tray-intel.png)|
+|**prime-tray-nvidia**|![](64/prime-tray-nvidia.png)|![](48/prime-tray-nvidia.png)|![](32/prime-tray-nvidia.png)|![](24/prime-tray-nvidia.png)|![](22/prime-tray-nvidia.png)|![](16/prime-tray-nvidia.png)|
 |**printer-error**|![](64/printer-error.png)|![](48/printer-error.png)|![](32/printer-error.png)|![](24/printer-error.png)|![](22/printer-error.png)|![](16/printer-error.png)|
 |**printer-printing**|![](64/printer-printing.png)|![](48/printer-printing.png)|![](32/printer-printing.png)|![](24/printer-printing.png)|![](22/printer-printing.png)|![](16/printer-printing.png)|
 |**process-completed**|![](64/process-completed.png)|![](48/process-completed.png)|![](32/process-completed.png)|![](24/process-completed.png)|![](22/process-completed.png)|![](16/process-completed.png)|
@@ -235,7 +244,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**skype_offline**|![](64/skype_offline.png)|![](48/skype_offline.png)|![](32/skype_offline.png)|![](24/skype_offline.png)|![](22/skype_offline.png)|![](16/skype_offline.png)|
 |**skype_online**|![](64/skype_online.png)|![](48/skype_online.png)|![](32/skype_online.png)|![](24/skype_online.png)|![](22/skype_online.png)|![](16/skype_online.png)|
 |**skype_skypeme**|![](64/skype_skypeme.png)|![](48/skype_skypeme.png)|![](32/skype_skypeme.png)|![](24/skype_skypeme.png)|![](22/skype_skypeme.png)|![](16/skype_skypeme.png)|
-|**software-update-available**|![](64/software-update-available.png)|![](48/software-update-available.png)|![](32/software-update-available.png)|![](24/software-update-available.png)|![](22/software-update-available.png)|![](16/software-update-available.png)|
 |**software-update-checking**|![](64/software-update-checking.png)|![](48/software-update-checking.png)|![](32/software-update-checking.png)|![](24/software-update-checking.png)|![](22/software-update-checking.png)|![](16/software-update-checking.png)|
 |**software-update-error**|![](64/software-update-error.png)|![](48/software-update-error.png)|![](32/software-update-error.png)|![](24/software-update-error.png)|![](22/software-update-error.png)|![](16/software-update-error.png)|
 |**software-update-installing**|![](64/software-update-installing.png)|![](48/software-update-installing.png)|![](32/software-update-installing.png)|![](24/software-update-installing.png)|![](22/software-update-installing.png)|![](16/software-update-installing.png)|
