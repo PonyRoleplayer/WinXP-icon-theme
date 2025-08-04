@@ -66,6 +66,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**chrome-boeajhmfdjldchidhphikilcgdacljfm-Default**|![](64/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](48/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](32/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](24/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](22/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](16/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|
 |**chrome-ejidjjhkpiempkbhmpbfngldlkglhimk-Default**|![](64/chrome-ejidjjhkpiempkbhmpbfngldlkglhimk-Default.png)|![](48/chrome-ejidjjhkpiempkbhmpbfngldlkglhimk-Default.png)|![](32/chrome-ejidjjhkpiempkbhmpbfngldlkglhimk-Default.png)|![](24/chrome-ejidjjhkpiempkbhmpbfngldlkglhimk-Default.png)|![](22/chrome-ejidjjhkpiempkbhmpbfngldlkglhimk-Default.png)|![](16/chrome-ejidjjhkpiempkbhmpbfngldlkglhimk-Default.png)|
 |**chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default**|![](64/chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default.png)|![](48/chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default.png)|![](32/chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default.png)|![](24/chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default.png)|![](22/chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default.png)|![](16/chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default.png)|
+|**chromium**|![](64/chromium.png)|![](48/chromium.png)|![](32/chromium.png)|![](24/chromium.png)|![](22/chromium.png)|![](16/chromium.png)|
 |**clementine**|![](64/clementine.png)|![](48/clementine.png)|![](32/clementine.png)|![](24/clementine.png)|![](22/clementine.png)|![](16/clementine.png)|
 |**clipman**|![](64/clipman.png)|![](48/clipman.png)|![](32/clipman.png)|![](24/clipman.png)|![](22/clipman.png)|![](16/clipman.png)|
 |**codeblocks**|![](64/codeblocks.png)|![](48/codeblocks.png)|![](32/codeblocks.png)|![](24/codeblocks.png)|![](22/codeblocks.png)|![](16/codeblocks.png)|
@@ -188,6 +189,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnomebaker**|![](64/gnomebaker.png)|![](48/gnomebaker.png)|![](32/gnomebaker.png)|![](24/gnomebaker.png)|![](22/gnomebaker.png)|![](16/gnomebaker.png)|
 |**gnomebaker-48**|![](64/gnomebaker-48.png)|![](48/gnomebaker-48.png)|![](32/gnomebaker-48.png)|![](24/gnomebaker-48.png)|![](22/gnomebaker-48.png)|![](16/gnomebaker-48.png)|
 |**goa-panel**|![](64/goa-panel.png)|![](48/goa-panel.png)|![](32/goa-panel.png)|![](24/goa-panel.png)|![](22/goa-panel.png)|![](16/goa-panel.png)|
+|**google-chrome**|![](64/google-chrome.png)|![](48/google-chrome.png)|![](32/google-chrome.png)|![](24/google-chrome.png)|![](22/google-chrome.png)|![](16/google-chrome.png)|
 |**google-hangout**|![](64/google-hangout.png)|![](48/google-hangout.png)|![](32/google-hangout.png)|![](24/google-hangout.png)|![](22/google-hangout.png)|![](16/google-hangout.png)|
 |**gparted**|![](64/gparted.png)|![](48/gparted.png)|![](32/gparted.png)|![](24/gparted.png)|![](22/gparted.png)|![](16/gparted.png)|
 |**gresistor**|![](64/gresistor.png)|![](48/gresistor.png)|![](32/gresistor.png)|![](24/gresistor.png)|![](22/gresistor.png)|![](16/gresistor.png)|
@@ -227,6 +229,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**internet-feed-reader**|![](64/internet-feed-reader.png)|![](48/internet-feed-reader.png)|![](32/internet-feed-reader.png)|![](24/internet-feed-reader.png)|![](22/internet-feed-reader.png)|![](16/internet-feed-reader.png)|
 |**internet-mail**|![](64/internet-mail.png)|![](48/internet-mail.png)|![](32/internet-mail.png)|![](24/internet-mail.png)|![](22/internet-mail.png)|![](16/internet-mail.png)|
 |**invest-applet**|![](64/invest-applet.png)|![](48/invest-applet.png)|![](32/invest-applet.png)|![](24/invest-applet.png)|![](22/invest-applet.png)|![](16/invest-applet.png)|
+|**io.github.ungoogled_software.ungoogled_chromium**|![](64/io.github.ungoogled_software.ungoogled_chromium.png)|![](48/io.github.ungoogled_software.ungoogled_chromium.png)|![](32/io.github.ungoogled_software.ungoogled_chromium.png)|![](24/io.github.ungoogled_software.ungoogled_chromium.png)|![](22/io.github.ungoogled_software.ungoogled_chromium.png)|![](16/io.github.ungoogled_software.ungoogled_chromium.png)|
 |**jack**|![](64/jack.png)|![](48/jack.png)|![](32/jack.png)|![](24/jack.png)|![](22/jack.png)|![](16/jack.png)|
 |**jack-rack**|![](64/jack-rack.png)|![](48/jack-rack.png)|![](32/jack-rack.png)|![](24/jack-rack.png)|![](22/jack-rack.png)|![](16/jack-rack.png)|
 |**jackbeat**|![](64/jackbeat.png)|![](48/jackbeat.png)|![](32/jackbeat.png)|![](24/jackbeat.png)|![](22/jackbeat.png)|![](16/jackbeat.png)|

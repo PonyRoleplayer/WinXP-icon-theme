@@ -9,13 +9,14 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**folder-desktop**|![](64/folder-desktop.png)|![](48/folder-desktop.png)|![](32/folder-desktop.png)|![](24/folder-desktop.png)|![](22/folder-desktop.png)|![](16/folder-desktop.png)|
 |**folder-documents**|![](64/folder-documents.png)|![](48/folder-documents.png)|![](32/folder-documents.png)|![](24/folder-documents.png)|![](22/folder-documents.png)|![](16/folder-documents.png)|
 |**folder-documents-open**|![](64/folder-documents-open.png)|![](48/folder-documents-open.png)|![](32/folder-documents-open.png)|![](24/folder-documents-open.png)|![](22/folder-documents-open.png)|![](16/folder-documents-open.png)|
-|**folder-download**|![](64/folder-download.png)|![](48/folder-download.png)|![](32/folder-download.png)|![](24/folder-download.png)|![](22/folder-download.png)|![](16/folder-download.png)|
 |**folder-download-open**|![](64/folder-download-open.png)|![](48/folder-download-open.png)|![](32/folder-download-open.png)|![](24/folder-download-open.png)|![](22/folder-download-open.png)|![](16/folder-download-open.png)|
 |**folder-downloads**|![](64/folder-downloads.png)|![](48/folder-downloads.png)|![](32/folder-downloads.png)|![](24/folder-downloads.png)|![](22/folder-downloads.png)|![](16/folder-downloads.png)|
 |**folder-dropbox**|![](64/folder-dropbox.png)|![](48/folder-dropbox.png)|![](32/folder-dropbox.png)|![](24/folder-dropbox.png)|![](22/folder-dropbox.png)|![](16/folder-dropbox.png)|
 |**folder-games**|![](64/folder-games.png)|![](48/folder-games.png)|![](32/folder-games.png)|![](24/folder-games.png)|![](22/folder-games.png)|![](16/folder-games.png)|
 |**folder-home**|![](64/folder-home.png)|![](48/folder-home.png)|![](32/folder-home.png)|![](24/folder-home.png)|![](22/folder-home.png)|![](16/folder-home.png)|
 |**folder-images**|![](64/folder-images.png)|![](48/folder-images.png)|![](32/folder-images.png)|![](24/folder-images.png)|![](22/folder-images.png)|![](16/folder-images.png)|
+|**folder-important**|![](64/folder-important.png)|![](48/folder-important.png)|![](32/folder-important.png)|![](24/folder-important.png)|![](22/folder-important.png)|![](16/folder-important.png)|
+|**folder-locked**|![](64/folder-locked.png)|![](48/folder-locked.png)|![](32/folder-locked.png)|![](24/folder-locked.png)|![](22/folder-locked.png)|![](16/folder-locked.png)|
 |**folder-music**|![](64/folder-music.png)|![](48/folder-music.png)|![](32/folder-music.png)|![](24/folder-music.png)|![](22/folder-music.png)|![](16/folder-music.png)|
 |**folder-music-open**|![](64/folder-music-open.png)|![](48/folder-music-open.png)|![](32/folder-music-open.png)|![](24/folder-music-open.png)|![](22/folder-music-open.png)|![](16/folder-music-open.png)|
 |**folder-open**|![](64/folder-open.png)|![](48/folder-open.png)|![](32/folder-open.png)|![](24/folder-open.png)|![](22/folder-open.png)|![](16/folder-open.png)|
@@ -23,7 +24,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**folder-publicshare**|![](64/folder-publicshare.png)|![](48/folder-publicshare.png)|![](32/folder-publicshare.png)|![](24/folder-publicshare.png)|![](22/folder-publicshare.png)|![](16/folder-publicshare.png)|
 |**folder-publicshare-open**|![](64/folder-publicshare-open.png)|![](48/folder-publicshare-open.png)|![](32/folder-publicshare-open.png)|![](24/folder-publicshare-open.png)|![](22/folder-publicshare-open.png)|![](16/folder-publicshare-open.png)|
 |**folder-recent**|![](64/folder-recent.png)|![](48/folder-recent.png)|![](32/folder-recent.png)|![](24/folder-recent.png)|![](22/folder-recent.png)|![](16/folder-recent.png)|
-|**folder-recent-open**|![](64/folder-recent-open.png)|![](48/folder-recent-open.png)|![](32/folder-recent-open.png)|![](24/folder-recent-open.png)|![](22/folder-recent-open.png)|![](16/folder-recent-open.png)|
 |**folder-remote**|![](64/folder-remote.png)|![](48/folder-remote.png)|![](32/folder-remote.png)|![](24/folder-remote.png)|![](22/folder-remote.png)|![](16/folder-remote.png)|
 |**folder-remote-open**|![](64/folder-remote-open.png)|![](48/folder-remote-open.png)|![](32/folder-remote-open.png)|![](24/folder-remote-open.png)|![](22/folder-remote-open.png)|![](16/folder-remote-open.png)|
 |**folder-tag**|![](64/folder-tag.png)|![](48/folder-tag.png)|![](32/folder-tag.png)|![](24/folder-tag.png)|![](22/folder-tag.png)|![](16/folder-tag.png)|
@@ -35,8 +35,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**folder-videos-open**|![](64/folder-videos-open.png)|![](48/folder-videos-open.png)|![](32/folder-videos-open.png)|![](24/folder-videos-open.png)|![](22/folder-videos-open.png)|![](16/folder-videos-open.png)|
 |**folder-wine**|![](64/folder-wine.png)|![](48/folder-wine.png)|![](32/folder-wine.png)|![](24/folder-wine.png)|![](22/folder-wine.png)|![](16/folder-wine.png)|
 |**folder-yandex-disk**|![](64/folder-yandex-disk.png)|![](48/folder-yandex-disk.png)|![](32/folder-yandex-disk.png)|![](24/folder-yandex-disk.png)|![](22/folder-yandex-disk.png)|![](16/folder-yandex-disk.png)|
-|**folder_important**|![](64/folder_important.png)|![](48/folder_important.png)|![](32/folder_important.png)|![](24/folder_important.png)|![](22/folder_important.png)|![](16/folder_important.png)|
-|**folder_locked**|![](64/folder_locked.png)|![](48/folder_locked.png)|![](32/folder_locked.png)|![](24/folder_locked.png)|![](22/folder_locked.png)|![](16/folder_locked.png)|
 |**gnome-dev-trash-full**|![](64/gnome-dev-trash-full.png)|![](48/gnome-dev-trash-full.png)|![](32/gnome-dev-trash-full.png)|![](24/gnome-dev-trash-full.png)|![](22/gnome-dev-trash-full.png)|![](16/gnome-dev-trash-full.png)|
 |**gnome-fs-bookmark-missing**|![](64/gnome-fs-bookmark-missing.png)|![](48/gnome-fs-bookmark-missing.png)|![](32/gnome-fs-bookmark-missing.png)|![](24/gnome-fs-bookmark-missing.png)|![](22/gnome-fs-bookmark-missing.png)|![](16/gnome-fs-bookmark-missing.png)|
 |**internet-radio**|![](64/internet-radio.png)|![](48/internet-radio.png)|![](32/internet-radio.png)|![](24/internet-radio.png)|![](22/internet-radio.png)|![](16/internet-radio.png)|

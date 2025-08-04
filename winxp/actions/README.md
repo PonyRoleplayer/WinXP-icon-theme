@@ -3,6 +3,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
+|**Run**|![](64/Run.png)|![](48/Run.png)|![](32/Run.png)|![](24/Run.png)|![](22/Run.png)|![](16/Run.png)|
 |**add-files-to-archive**|![](64/add-files-to-archive.png)|![](48/add-files-to-archive.png)|![](32/add-files-to-archive.png)|![](24/add-files-to-archive.png)|![](22/add-files-to-archive.png)|![](16/add-files-to-archive.png)|
 |**add-folder-to-archive**|![](64/add-folder-to-archive.png)|![](48/add-folder-to-archive.png)|![](32/add-folder-to-archive.png)|![](24/add-folder-to-archive.png)|![](22/add-folder-to-archive.png)|![](16/add-folder-to-archive.png)|
 |**address-book-insert**|![](64/address-book-insert.png)|![](48/address-book-insert.png)|![](32/address-book-insert.png)|![](24/address-book-insert.png)|![](22/address-book-insert.png)|![](16/address-book-insert.png)|
